@@ -117,6 +117,7 @@ input {
     -webkit-transition: 0.5s;
     transition: 0.5s;
     outline: none;
+    color: white;
 }
 
 input:focus {
