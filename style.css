@@ -13,7 +13,7 @@ body {
 
 .background {
     background: #D0E4F5 url(./images/background.jpg) no-repeat scroll 0% 28%;
-    background-size: 73vh;
+    background-size: 85vh;
     background-position: center;
     width: 40vw;
     display: flex;
@@ -124,3 +124,10 @@ input:focus {
   border: 3px solid #1b2720;
 }
 
+input:valid {
+    border: 3px solid green
+}
+
+/* input:invalid {
+    border: 3px solid red
+} */
