@@ -1,11 +1,11 @@
 # signup-form
 
-A simple sign-up form built using HTML and CSS.
+A simple sign-up form built using HTML, CSS and JavaScript.
 
 ## Description
 Link: https://hstanekz.github.io/signup-form/
 
-This is a basic sign-up form that allows users to enter their details in order to create an account. The form includes input fields for first name, last name, email address, and password, as well as a button to submit the form.
+This is a basic sign-up form that allows users to enter their details in order to create an account. The form includes input fields for first name, last name, email address, phone number, and password.
 
 ## Features
 
@@ -17,11 +17,7 @@ This is a basic sign-up form that allows users to enter their details in order t
 
 - HTML
 - CSS
-
-## Future Improvements
-- Using JavaScript:
-   Validation for both password fields
-   Input validation for phone number
+- JavaScript
 
 ## Credits
 

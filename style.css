@@ -124,10 +124,7 @@ input:focus {
   border: 3px solid #1b2720;
 }
 
-input:valid {
-    border: 3px solid green
-}
-
-/* input:invalid {
-    border: 3px solid red
-} */
+.valid-password {
+    border: 3px solid green;
+  }
+  
