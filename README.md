@@ -25,3 +25,7 @@ The following images were used in this project:
 
 - `background.jpg`: Photo by Alex Shuper on Unsplash (https://unsplash.com/photos/lC7smnDclCw)
 - `cube.png`: Designed by Nevit Dilmen (https://commons.wikimedia.org/wiki/File:Axonometric_cube.svg)
+
+## Takeaway
+
+While building this project, I learned about the importance of client and user validation, as well as cybersecurity. These are crucial concepts in web development that should always be prioritized when building any kind of web application or form. By implementing robust validation and security measures, we can help ensure that our users' information is protected and our applications are safe from attacks.
